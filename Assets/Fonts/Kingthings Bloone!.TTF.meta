@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: caa9f5ad740e0e64c98bbc754a4aaecf
+timeCreated: 1511506821
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kingthings Bloone!
+  fontNames:
+  - Kingthings Bloone!
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

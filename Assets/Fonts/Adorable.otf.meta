@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a226d34a1e431e74a890a3cd5c08e3f6
+timeCreated: 1511506820
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adorable
+  fontNames:
+  - Adorable
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

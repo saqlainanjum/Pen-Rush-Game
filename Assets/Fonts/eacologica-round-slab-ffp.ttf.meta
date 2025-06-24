@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a9f7e8f427eef7f4ba633029adf60985
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: eacologica round slab
+  fontNames:
+  - eacologica round slab
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7a38688df37ccd8428c1f5673ac07f3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

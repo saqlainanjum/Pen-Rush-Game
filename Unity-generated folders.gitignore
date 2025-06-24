@@ -1,0 +1,63 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-generated files
+.DS_Store
+*.swp
+*.iml
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Auto-generated files by Unity
+*.bak
+*.orig
+
+# Unity Cloud Build
+.cloud/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Crashlytics
+crashlytics-build.properties
+
+# Build results
+*.apk
+*.aab
+*.xcarchive
+
+# Exclude user settings
+UserSettings/
+
+# Unity Addressables
+/Assets/AddressableAssetsData/*/AssetGroups
+/Assets/AddressableAssetsData/*/AssetSettings
+
+# Asset Store Tools
+/Assets/AssetStoreTools*
+
+# Exclude Git data (if any backup folders used)
+.git/
+
+# Ignore node_modules (if you use npm tools like WebGL helpers)
+node_modules/

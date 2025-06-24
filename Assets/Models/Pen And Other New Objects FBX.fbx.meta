@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 49324dde61f0ba1469cc2a2af649be52
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pCylinder1
+    100002: //RootNode
+    100004: Pen_Close_Cap01
+    100006: Pen_Open_Cap01
+    100008: Pen_Run_Pen05
+    100010: Pen_Stand01
+    100012: Pen_Stand01 1
+    100014: Pen_Stand_Inside01
+    100016: polySurface1
+    100018: polySurface15
+    100020: polySurface16
+    100022: polySurface2
+    100024: scissors01
+    100026: Spects01
+    400000: pCylinder1
+    400002: //RootNode
+    400004: Pen_Close_Cap01
+    400006: Pen_Open_Cap01
+    400008: Pen_Run_Pen05
+    400010: Pen_Stand01
+    400012: Pen_Stand01 1
+    400014: Pen_Stand_Inside01
+    400016: polySurface1
+    400018: polySurface15
+    400020: polySurface16
+    400022: polySurface2
+    400024: scissors01
+    400026: Spects01
+    2100000: Pen
+    2100002: lambert1
+    2300000: pCylinder1
+    2300002: Pen_Close_Cap01
+    2300004: Pen_Open_Cap01
+    2300006: Pen_Stand01 1
+    2300008: Pen_Stand_Inside01
+    2300010: polySurface1
+    2300012: polySurface15
+    2300014: polySurface16
+    2300016: polySurface2
+    2300018: Spects01
+    3300000: pCylinder1
+    3300002: Pen_Close_Cap01
+    3300004: Pen_Open_Cap01
+    3300006: Pen_Stand01 1
+    3300008: Pen_Stand_Inside01
+    3300010: polySurface1
+    3300012: polySurface15
+    3300014: polySurface16
+    3300016: polySurface2
+    3300018: Spects01
+    4300000: polySurface1
+    4300002: polySurface2
+    4300004: pCylinder1
+    4300006: Spects01
+    4300008: polySurface16
+    4300010: polySurface15
+    4300012: Pen_Open_Cap01
+    4300014: Pen_Close_Cap01
+    4300016: Pen_Stand_Inside01
+    4300018: Pen_Stand01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
